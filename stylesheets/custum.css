@@ -1,0 +1,7 @@
+.fa-circle:before {
+    color: #7fff009e !important;
+    content: "\f111";
+}
+.rzm_progress_bar .progress-bar {
+    background: #2ebf0a !important;
+}
